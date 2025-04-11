@@ -1,3 +1,5 @@
+できました→ https://github.com/wswsans/univ_calendar_generator
+
 # 入試日程をカレンダーにしてくれるもの
 
 ## 説明
