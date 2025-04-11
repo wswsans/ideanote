@@ -1,4 +1,4 @@
-# ひので字を布教したい (できた理由は...)
+# ひので字を布教したい (ひので字ができた理由は...)
 
 ## hinodeji.sty
 細かい版→ https://github.com/wswsans/kana2hinodeji/blob/main/README.md
